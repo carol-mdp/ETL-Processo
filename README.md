@@ -1,6 +1,6 @@
 # ETL-Processo
 Criei um armazenamento no Blob Storage da azure para deixar os dados brutos e sem tratamento. Para a manipulação desses dados em CSV foi usado o Databricks Community para que fosse realizado o processo ETL. A importação dos dados direto do Blob Storage foi feita assim:
-![WhatsApp Image 2023-07-24 at 13 48 51](https://github.com/carol-mdp/ETL-Processo/assets/87662499/af8f201b-1f5c-4961-8a8b-b3682f0f42c9)
+![WhatsApp Image 2023-07-24 at 20 45 39](https://github.com/carol-mdp/ETL-Processo/assets/87662499/1511ab1d-3629-48c4-84a4-4972b37b817f)
 
 Arquivos para tratamento:
 
