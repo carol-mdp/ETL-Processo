@@ -13,7 +13,7 @@ from pyspark.sql.window import Window
 
 # LOCAL QUE ESTÃO OS DADOS BRUTOS
 storage_account_name = "blobs333"
-storage_account_access_key = "iItjs89ZJ8VO/TlaP40Pd0tOkXZlRqJlUlmIZ2NkedHNu3cBnkIHypQ5CPQBzCm+HuWxxIRtYMld+AStYuh7NA=="
+storage_account_access_key = ""
 container_name = "csv"
 
 
